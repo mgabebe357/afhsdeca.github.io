@@ -1440,11 +1440,11 @@ textarea {
 }
 
 a {
-  color: #fff;
+  color: #122144;
   text-decoration: none;
 }
 a:hover, a:focus {
-  color: #fff;
+  color: #122144;
   text-decoration: underline;
 }
 a:focus {
@@ -7355,7 +7355,7 @@ body {
   font-size: 14px;
   line-height: 26px;
   letter-spacing: .02em;
-  color: #88929a;
+  color: #122144;
 }
 
 a {
